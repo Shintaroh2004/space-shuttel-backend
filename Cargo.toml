@@ -1,0 +1,11 @@
+[package]
+name = "spaceshuttle10273"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.3.1"
+actix-files = "0.6.2"
+shuttle-actix-web = "0.30.0"
+shuttle-runtime = "0.30.0"
+tokio = "1.26.0"
